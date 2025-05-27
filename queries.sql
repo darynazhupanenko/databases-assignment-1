@@ -1,5 +1,3 @@
-USE P02;
-
 SHOW TABLES;
 
 -- JOIN

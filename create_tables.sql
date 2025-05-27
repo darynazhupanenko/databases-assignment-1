@@ -1,3 +1,9 @@
+CREATE DATABASE P01;
+
+USE P01;
+
+SHOW TABLES;
+
 -- Таблиця користувачів
 CREATE TABLE Users (
     user_id INT PRIMARY KEY,
